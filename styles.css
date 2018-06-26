@@ -132,10 +132,11 @@ body
 .fb
 {
     margin: 10px;
-    width: 105px;
+    width: 146px;
     height: 142px;
     background-color: #4668b3;
     float: left;
+    text-align: center;
 }
 
 .fb:hover
@@ -146,10 +147,11 @@ body
 .GIT
 {
     margin: 10px;
-    width: 105px;
+    width: 147px;
     height: 142px;
     background-color: #c9510c;
     float: left;
+    text-align: center;
 }
 
 .GIT:hover
@@ -160,10 +162,11 @@ body
 .in
 {
     margin: 10px;
-    width: 105px;
+    width: 147px;
     height: 142px;
     background-color: #0077b5;
     float: left;
+    text-align: center;
 }
 
 .in:hover
